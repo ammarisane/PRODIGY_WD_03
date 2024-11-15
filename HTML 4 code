@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="contact.css" />
+  </head>
+  <body>
+    <body>
+        <header>
+          <h2>Web <span>Development</span></h2>
+          <nav class="navbar">
+            <ul>
+              <a href="myporfolio.html"><li>Home</li></a>
+              <a href="aboutme.html"><li>About Me</li></a>
+              <a href="project.html"><li>Projects</li></a>
+              <a href="contact.html"><li>Contact Us</li></a>
+            </ul>
+          </nav>
+          <div class="heading"> <h1>Contact <span>Us</span></h1>
+          </div>
+          <div class="content">
+            <input type="email" placeholder="Email Id"><br><br>
+            <input type="password" placeholder="Password"><br><br>
+            <textarea name="Message" id="Message">Message</textarea>
+          </div>
+        </header>
+  </body>
+</html>
