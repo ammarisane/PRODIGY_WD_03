@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="project.css" />
+  </head>
+  <body>
+    <header>
+      <h2>Web <span>Development</span></h2>
+      <nav class="navbar">
+        <ul>
+          <a href="myporfolio.html"><li>Home</li></a>
+          <a href="aboutme.html"><li>About Me</li></a>
+          <a href="project.html"><li>Projects</li></a>
+          <a href="contact.html"><li>Contact Us</li></a>
+        </ul>
+      </nav>
+    </header>
+    <div class="projects">
+      <a href="#"> <img src="bg.jpeg" alt="" /></a>
+      <h1>Pro<span>jects</span></h1>
+      <p>
+        Each project showcases my commitment to creating interactive, visually
+        appealing, and highly functional web experiences. From responsive
+        layouts to optimized performance, these projects reflect my skills in
+        frontend development, attention to detail, and problem-solving ability.
+        Each one has been an opportunity to dive deep into modern tools and
+        frameworks, experiment with new design approaches, and hone my ability
+        to transform concepts into polished, user-friendly solutions. Explore my
+        work and see how I bring ideas to life on the web!
+      </p>
+    </div>
+  </body>
+</html>
