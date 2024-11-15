@@ -1,0 +1,104 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: sans-serif;
+    
+}
+header{
+    background-color: #303030;
+    width: 100%;
+    
+}
+header h2{
+    color: #c4c4c4;
+    position: relative;
+    left: 100px;
+    top: 25px;
+
+}
+header span{
+    color: #f5612b;
+}
+.navbar ul{
+    display: flex;
+    list-style: none;
+    position: relative;
+    left: 500px;
+    bottom: 20px;
+    font-size: 18px;
+    
+    
+    
+}
+ header a{
+    text-decoration: none;
+}
+header li{
+    padding: 20px;
+    cursor: pointer;
+    color: #c4c4c4;
+    
+}
+header  li:hover{   
+color: blanchedalmond;
+}
+.home{
+    width: 100%;
+    position: absolute;
+
+}
+.home h1{
+    position: relative;
+    top: 200px;
+    left: 200px;
+    width: 400px;
+}
+.home span{
+    color: #f5612b;
+}
+.home img{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 750px;
+    top: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.home p{
+    width:450px ;
+    position: relative;
+    left: 200px;
+    top:20px ;
+    text-align: inherit;
+    
+
+}
+.hire{
+    width: 100px;
+    height: 30px;
+    position: relative;
+    top: 490px;
+    left: 200px;
+    background-color: black;
+    color: whitesmoke;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.exprience{
+    width: 100px;
+    height: 30px;
+    position: relative;
+    top: 490px;
+    left: 220px;
+    background-color: #f5612b;
+    color: whitesmoke;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+    
+}
+
