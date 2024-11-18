@@ -75,3 +75,14 @@ textarea{
     width: 250px;
     padding-left: 20px;
 }
+button{
+    background-color: #f5612b;
+    border-radius: 20px;
+    width: 100px;
+   position: relative;
+   top: 20px;
+   height: 30px;
+   border: none;
+   color: white;
+   cursor: pointer;
+}
