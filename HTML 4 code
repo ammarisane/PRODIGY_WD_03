@@ -24,6 +24,7 @@
             <input type="email" placeholder="Email Id"><br><br>
             <input type="password" placeholder="Password"><br><br>
             <textarea name="Message" id="Message">Message</textarea>
+            <button type="submit">Submit</button>
           </div>
         </header>
   </body>
